@@ -43,7 +43,7 @@ function afficherImageEtTexte(imageUrl, texte, containerId = 'contenu') {
 // Exemple d'utilisation
 document.addEventListener('DOMContentLoaded', function() {
   afficherImageEtTexte(
-    'https://example.com/image.jpg', 
-    'Voici un exemple de texte accompagnant l\'image. Ce conteneur fait exactement 500px de large.'
+    'https://e7.pngegg.com/pngimages/903/548/png-clipart-kebab-kebab-thumbnail.png', 
+    'test.'
   );
 });
